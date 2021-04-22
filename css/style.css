@@ -1,1 +1,18 @@
 /*stylesheet*/
+
+body {
+	margin: 0;
+}
+
+#wrapper {
+	margin: 0 auto;
+	max-width: 1200px;
+}
+
+#masthead{
+	background color:#e6e6e6;
+}
+
+#nav {
+	background-color: #b6b6b6;
+}
