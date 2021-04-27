@@ -16,3 +16,23 @@ body {
 #nav {
 	background-color: #b6b6b6;
 }
+/*line 32 starts below*/
+#logo {
+	padding: 1rem 0;
+}
+
+#logo #logo-holder {
+	position: relative;
+	color: var(--body-color);
+	display: flex;
+	align-items: center;
+}
+
+#logo a{
+	width: 30%;
+}
+
+#logo img {
+	width: 100%
+	height: auto;
+}
