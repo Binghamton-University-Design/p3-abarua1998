@@ -23,12 +23,12 @@ a:focus,button:focus,input:focus,textarea:focus {outline: none;}
 /*masthead*/
 
 #masthead{
-	background color:#087E8B;
+	background color:#0B3954;
 	padding: 0 1rem;
 }
 
 #nav {
-	background-color: #087E8B;
+	background-color: #0B3954;
 }
 
 #logo {
@@ -65,6 +65,11 @@ a:focus,button:focus,input:focus,textarea:focus {outline: none;}
 
 #nav .nav-menu a {
   color: #FFFFFF;
+  text-decoration: none;
+}
+
+#nav .nav-menu a.active {
+  color: #0B3954;
   text-decoration: none;
 }
 
